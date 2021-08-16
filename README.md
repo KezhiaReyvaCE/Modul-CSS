@@ -12,7 +12,7 @@ Output Latihan 4 Border
 Output Latihan 5 Position dan Overflow
 ![Output Position dan Overflow](https://user-images.githubusercontent.com/85090045/129572776-1a7dbdca-199f-4936-ad3a-51ab45067992.png)
 Output Latihan 6 Navigation Bar
-![Output Navigation Bar](https://user-images.githubusercontent.com/85090045/129572815-80ad737b-87a5-48b4-9866-fd4bbca404d2.pngOu)
+![Output Navigation Bar](https://user-images.githubusercontent.com/85090045/129574032-cde7b41b-4b10-4583-8ee1-7d872119e5ba.png)
 Output Latihan 7 Text in Multiple Column
 ![Output Text in Multiple Column](https://user-images.githubusercontent.com/85090045/129573089-86f2a281-687c-4bc2-9cce-11822b83b2f7.png)
 Output Latihan 8 Image Gallery
